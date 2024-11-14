@@ -3,5 +3,5 @@ using namespace std;
 
 int main(){
     cout<<"config"<<endl;
-    cout<<"github 2"<<endl;
+    cout<<"github 3"<<endl;
 }
